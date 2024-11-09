@@ -1,1 +1,5 @@
 matplotlib
+tensorflow
+io
+pandas
+numpy
